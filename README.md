@@ -1,4 +1,4 @@
-# InventoryOnHandByLocationsEntityProjects
+# InventoryOnHandByLocationEntityProjects
 Expose InventoryOnHandLocation API Endpoint in Dynamics 365 F&amp;O
 
 - After clone using ssh or https 
