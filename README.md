@@ -12,11 +12,11 @@ This repository contains the code and resources for the **Inventory On Hand By L
 
 ## Introduction
 
-Managing inventory across multiple locations can be a complex task, especially when it lacks the access to get inventory on hand information. The Inventory On Hand By Location Entity project aims to simplify this process by providing a custom Inventory On Hand By Location Entity that allow user to get inventory by specific location in Dynamics 365 Finance and Operations.
+Managing inventory across multiple locations can be a complex task, especially when there is a lack of access to inventory on hand information by API. The Inventory On Hand By Location Entity project aims to simplify this process by providing a custom Inventory On Hand By Location Entity that allows users to retrieve inventory data in Dynamics 365 Finance and Operations using OData.
 
 ## Features
 
-- **Inventory On Hand Management**: User after built and synced the project can access the InventOnHand data in Dynamics 365 Finance and Operations using Odata
+- **Inventory On Hand Management**: Users can access the Inventory On Hand data in Dynamics 365 Finance and Operations using OData.
 
 ## Installation
 
@@ -30,17 +30,17 @@ To install and set up the Inventory On Hand By Location Entity project, follow t
 
 2. Configure the project:
 
-   - Open the project by using visual studio
-   - Remember to run it as Administrator
+   - Open the project using Visual Studio.
+   - Make sure to run Visual Studio as an administrator.
 
 4. Build the project:
 
-   - Right click on this project and click build
+   - Right-click on the project and click "Build".
    ![build_project](https://github.com/HieuJR/InventoryOnHandByLocationEntityProject/assets/105049467/e98cee3f-0cd6-4d26-b754-055c141c267b)
 
 5. Sync the project:
 
-   - Right click on this project and click synchronize InventoryOnHandByLocationEntityProject ...
+   - Right-click on the project and click "Synchronize InventoryOnHandByLocationEntityProject ...".
    ![sync_project](https://github.com/HieuJR/InventoryOnHandByLocationEntityProject/assets/105049467/5c59a927-4aa1-489d-b3c1-b5338df690de)
 
 
@@ -48,13 +48,13 @@ To install and set up the Inventory On Hand By Location Entity project, follow t
 
 Once the project is built and synced, you can use the following steps to get started:
 
-1. Make sure you have an access_token to access these APIs below
+1. Make sure you have an access token to access the following APIs.
   ![Postman_oOahWkOvKl](https://github.com/HieuJR/InventoryOnHandByLocationEntityProject/assets/105049467/e3f36d04-8b63-47fe-85aa-5ad796d50a70)
 
-2. Test if an entity have been exposed in Dynamics 365 Finance and Opeations.
+2. Test if the entity has data or not.
   ![text_data_entity](https://github.com/HieuJR/InventoryOnHandByLocationEntityProject/assets/105049467/18b37153-5369-44bd-9e00-bcac3f4b6916)
 
-3. Test if an entity have data or not.
+3. Test if the entity has data or not.
   ![Postman_0Mw4o6KkBR](https://github.com/HieuJR/InventoryOnHandByLocationEntityProject/assets/105049467/d6fed7c8-0514-4d68-848e-2db796122bc7)
 
 ## Contributing
