@@ -137,7 +137,7 @@ Once the project is built and synced, you can use the following steps to get sta
 3. Test if the entity has data or not.
 - Input:
    ```
-     curl --location '{{DYANMICS365_BASEURL}}//data/InventoryOnHandByLocations?     %24filter=InventLocationId%20eq%20%27TEST%27%20and%20dataAreaId%20eq%20%27usrt%27&%24top=10' \
+     curl --location '{{DYANMICS365_BASEURL}}//data/InventoryOnHandByLocations%24filter=InventLocationId%20eq%20%27TEST%27%20and%20dataAreaId%20eq%20%27usrt%27&%24top=10' \
    --header 'Authorization: Bearer {{MS_ACCESS_TOKEN}}'
    ```
 - Output:
