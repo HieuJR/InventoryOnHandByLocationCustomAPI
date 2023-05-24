@@ -287,9 +287,9 @@ Once the project is built and synced, you can use the following steps to get sta
             "InventVersionId": ""
         }
     ]
-}
+    }
    ```
-  ![Postman_0Mw4o6KkBR](https://github.com/HieuJR/InventoryOnHandByLocationEntityProject/assets/105049467/d6fed7c8-0514-4d68-848e-2db796122bc7)
+![Postman_0Mw4o6KkBR](https://github.com/HieuJR/InventoryOnHandByLocationEntityProject/assets/105049467/d6fed7c8-0514-4d68-848e-2db796122bc7)
 
 ## Contributing
 
