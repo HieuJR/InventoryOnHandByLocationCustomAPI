@@ -27,6 +27,11 @@ Managing inventory across multiple locations can be a complex task, especially w
 
 Once the project is built and synced, you can use the following steps to get started:
 
+- Prequisites: Please follow these steps to collect CLIENT_ID, CLIENT_SECRET, TENANT_ID.
+
+- Go to https://portal.azure.com/. From the Home menu, navigate to 'App Registrations' to locate the appropriate applications.
+  ![PiSYKBSdiS](https://github.com/HieuJR/InventoryOnHandByLocationCustomAPI/assets/105049467/58357796-3540-46c0-929c-b0b09243f7be)
+
 1. Make sure you have an access token to access the following APIs.
   - Input:
   ```
